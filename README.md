@@ -36,3 +36,4 @@ This Sudoku game allows players to enjoy the classic puzzle game in a user-frien
 - Run using : `java -cp bin sudokufile.java`
 
 # Screenshots
+![sudoku](https://github.com/kajalkumari2507/sudoku/assets/114283323/afb30918-8af6-4bb8-9fa4-b535353f7d23)
